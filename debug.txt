@@ -1,0 +1,20 @@
+App.js:7 ===== 1 =====
+hoc.js:4 passando pelo hoc
+App.js:9 ===== 2 =====
+App.js:30 passando por aqui ===== 4 =====
+hoc.js:7 hoc: requisição HTTP pendente
+nasa.js:46 Passando pela nasa: null
+App.js:17 ===== 3 =====
+App.js:7 ===== 1 =====
+hoc.js:4 passando pelo hoc
+App.js:9 ===== 2 =====
+App.js:30 passando por aqui ===== 4 =====
+hoc.js:10 hoc: carregando....
+App.js:24 ==> [object Object],[object Object]
+App.js:7 ===== 1 =====
+hoc.js:4 passando pelo hoc
+App.js:9 ===== 2 =====
+App.js:30 passando por aqui ===== 4 =====
+hoc.js:7 hoc: requisição HTTP pendente
+nasa.js:46 Passando pela nasa: [object Object],[object Object]
+nasa.js:22 ==> Lista: [object Object],[object Object]
